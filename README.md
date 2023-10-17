@@ -1,5 +1,7 @@
 # map_with_start_and_destination
 
+VIEW OUTPUT: https://sanjay-kumar-sk-mca-23.github.io/map_with_start_and_destination/
+
 Description:
 
 This HTML document displays a map using Mapbox and a button to animate a marker's movement along predefined bus stops between Gandhipuram and Sulur.
